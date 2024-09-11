@@ -1,0 +1,113 @@
+.options{
+    width: 100%;
+    height: 48px;
+    background-color: #073d69;
+    border-top: 1px solid #154c7a;
+}
+.home button{
+    width: 83px;
+    height: 48px;
+}
+.line{
+    width: 80px;
+    height: 10px;
+    background-color: rgb(250, 214, 32);
+    margin-left: 83px;
+    margin-top: -41px;
+}
+<div class="about">
+                    <button><strong><img src="arrow3.png"> ABOUT</strong></button>
+                </div>
+                .about{
+                    margin-top: -47px;
+                }
+                <div class="line"></div>
+                <div class="home">
+                    <button><strong>HOME</strong></button>
+                </div>
+                    <li><strong><img src="arrow3.png"> ABOUT</strong></li>
+                    <li><strong><img src="arrow3.png">THE UNIVERSITY</strong></li>
+                    <li><strong><img src="arrow3.png">ACADEMIES</strong></li>
+                    <li><strong><img src="arrow3.png">NAAC</strong></li>
+                    <li><strong><img src="arrow3.png">IQAC</strong></li>
+                    <li><strong><img src="arrow3.png">STUDENT ZONE</strong></li>
+                    <li><strong><img src="arrow3.png">INFO DESK</strong></li>
+                    <li><strong><img src="arrow3.png">CONTACT US</strong></li>
+                </ul>
+
+
+
+                <div class="sections">
+                    <div class="home">
+                        <p><strong><img src="arrow3.png"> HOME</strong></p>
+                    </div>
+                    <div class="about">
+                        <p><strong><img src="arrow3.png"> ABOUT</strong></p>
+                    </div>
+                    <div class="university">
+                        <p><strong><img src="arrow3.png"> THE UNIVERSITY</strong></p>
+                    </div>
+                    <div class="academies">
+                        <p><strong><img src="arrow3.png"> ACADEMIES</strong></p>
+                    </div>
+                    <div class="naac">
+                        <p><strong><img src="arrow3.png"> NAAC</strong></p>
+                    </div>
+                    <div class="iqac">
+                        <p><strong><img src="arrow3.png"> IQAC</strong></p>
+                    </div>
+                    <div class="student">
+                        <p><strong><img src="arrow3.png"> STUDENT ZONE</strong></p>
+                    </div>
+                    <div class="info">
+                        <p><strong><img src="arrow3.png"> INFO DESK</strong></p>
+                    </div>
+                    <div class="contact">
+                        <p><strong><img src="arrow3.png"> CONTACT US</strong></p>
+                    </div>
+                </div>
+
+
+
+
+                <div class="outerlayer">
+                    <div class="img1text">
+                        <p><strong>DIRECTORATE OF ADMISSION</strong></p>
+                    </div>
+                    <div class="img1">
+                        <img src="admission.png">
+                    </div>
+                    <div class="img1text2">
+                        <p>Directorate of Admission<p>
+                    </div>
+                </div>
+
+
+                <div class="img1"></div>
+                    <img src="admission.png">
+                </div>
+                <div class="img2">
+                    <img src="examination.png">
+                </div>
+                <div class="img3"></div>
+                    <img src="research3.png">
+                </div>
+                <div class="img4"></div>
+                    <img src="distance3.png">
+                </div>
+
+                <div class="submain">
+                    <div class="department"><img class="department" src="dept.jpg"></div>
+                    <div class="payment"><img src="epayment.jpg"></div>
+                    <div class="student"><img src="student.jpg"></div>
+                    <div class="certificate"><img src="cert.jpg"></div>
+                    <div class="college"><img src="coollport.jpg"></div>
+                    <div class="collect"><img src="coll.jpg"></div>
+                    <div class="suvega"><img src="sevega st.jpg"></div>
+                    <div class="certverf"><img src="certverf.jpg"></div>
+                </div>
+
+
+                <div><img src="Materials-Research-Bulletin_250_130.jpg"></div>
+            <div><img src="JMC_250_130.jpg"></div>
+            <div><img src="co2_250_130.jpg"></div>
